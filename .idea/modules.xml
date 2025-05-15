@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/app_b2b/melos_app_b2b.iml" filepath="$PROJECT_DIR$/packages/app_b2b/melos_app_b2b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/app_b2c/melos_app_b2c.iml" filepath="$PROJECT_DIR$/packages/app_b2c/melos_app_b2c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/app_b2g/melos_app_b2g.iml" filepath="$PROJECT_DIR$/packages/app_b2g/melos_app_b2g.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/app_common/melos_app_common.iml" filepath="$PROJECT_DIR$/packages/app_common/melos_app_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_appsskybox3.iml" filepath="$PROJECT_DIR$/melos_appsskybox3.iml" />
+    </modules>
+  </component>
+</project>

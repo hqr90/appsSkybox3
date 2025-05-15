@@ -1,0 +1,15 @@
+name: appsSkybox3
+description: Monorepo para skybox3
+version: 0.1.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  melos: ^6.2.0
+
+# Opcional: Dependências compartilhadas entre pacotes
+dependencies:
+  flutter:
+    sdk: flutter
+  logger: ^2.5.0
+  pie_menu: ^3.2.7
